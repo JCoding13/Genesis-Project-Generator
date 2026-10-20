@@ -1,0 +1,4 @@
+1. Execute the script
+2. Fill in the form
+3. Click "Generate"
+4. Enjoy!
